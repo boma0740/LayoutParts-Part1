@@ -2,83 +2,83 @@
 /* 回答はここから */
 /* Q1 text-ailgn */
 .inline1 {
-  display: inline-block;
-  width: 200px;
-  background-color: #fff;
-  font-size: 16px;
-  padding: 20px 0;
-  text-align: center;
+	display: inline-block;
+	width: 200px;
+	background-color: #fff;
+	font-size: 16px;
+	padding: 20px 0;
+	text-align: center;
 }
 
 .inline-text {
-  display: inline-block;
-  text-align: center;
-  padding: 10px;
-  background-color: #a4b3e9;
+	display: inline-block;
+	text-align: center;
+	padding: 10px;
+	background-color: #a4b3e9;
 }
 
 
 /* Q1 margin */
 .margin-text {
-  margin: 0 auto;
-  width: 90px;
-  padding: 10px;
-  background-color: #a4b3e9;
+	margin: 0 auto;
+	width: 90px;
+	padding: 10px;
+	background-color: #a4b3e9;
 }
 
 
 /* Q1 table */
 .table1 {
-  width: 100%;
-  height: 100%;
-  display: table;
+	width: 100%;
+	height: 100%;
+	display: table;
 }
 
 .table-cell {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
 }
 
 .table-text {
-  display: inline-block;
-  font-size: 16px;
-  background-color: #fff;
-  padding: 10px;
+	display: inline-block;
+	font-size: 16px;
+	background-color: #fff;
+	padding: 10px;
 }
 
 
 /* Q1 flex */
 .flex1 {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 
 }
 
 .flex-text {
-  display: inline-block;
-  font-size: 16px;
-  background-color: #fff;
-  padding: 10px;
+	display: inline-block;
+	font-size: 16px;
+	background-color: #fff;
+	padding: 10px;
 }
 
 
 /* Q1 position */
 .container {
-  position: relative;
-  height: 150px;
-  width: 250px;
+	position: relative;
+	height: 150px;
+	width: 250px;
 
 }
 
 .position-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  padding: 10px;
-  background-color: #a4b3e9;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 10px;
+	background-color: #a4b3e9;
 }

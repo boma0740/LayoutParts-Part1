@@ -2,17 +2,17 @@
 /* 回答はここから */
 /* Q2 */
 .card-list {
-  display: flex;
-  justify-content: center;
+	display: flex;
+	justify-content: center;
 }
 
 .list {
-  list-style: none;
-  width: 200px;
-  margin: 30px;
-  outline: 10px solid #655;
-  box-shadow: 0 0 0 6px #655;
-  background: #d4b48c;
-  padding: 10px;
-  border-radius: 13px;
+	list-style: none;
+	width: 200px;
+	margin: 30px;
+	outline: 10px solid #655;
+	box-shadow: 0 0 0 6px #655;
+	background: #d4b48c;
+	padding: 10px;
+	border-radius: 13px;
 }
